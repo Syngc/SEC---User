@@ -1,6 +1,6 @@
 {
-  "name": "appUser",
-  "app_id": "f835a416",
+  "name": "SECuser",
+  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
